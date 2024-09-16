@@ -38,7 +38,7 @@ pip install -r requirements.txt
 Clone the Repository
 bash
 # Copy code
-git clone https://github.com/yourusername/hand-gesture-recognition-database.git
+git clone https://github.com/Parmeshwar7/Python-Hand-Gesture-Recognition-Database/edit/main/README.md
 cd hand-gesture-recognition-database
 Usage
 Dataset
